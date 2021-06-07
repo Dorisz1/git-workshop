@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class future {
+public class future {
+    public void printHoroscope(){
+        System.out.println("Crab");
+    }
 }
