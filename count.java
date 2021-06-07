@@ -1,3 +1,3 @@
-public void count(String age) {
-        System.out.println(age);
+public void count(String[] args) {
+        System.out.println("Java");
     }
