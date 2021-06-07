@@ -1,7 +1,7 @@
 public class Cheer {
 
     public void sayTeamName(String name) {
-        System.out.println(name);
+        System.out.println("Cheer for the" + name);
     }
 
     public static void main(String[] args) {
