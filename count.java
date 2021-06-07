@@ -1,3 +1,3 @@
-public void count(String param1, param2) {
-        System.out.println(param1, param2);
+public void count(String parameter) {
+        System.out.println("Greetings for the" parameter);
     }
