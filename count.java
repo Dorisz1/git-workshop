@@ -1,3 +1,3 @@
 public void count(String[] args) {
-        System.out.println("Java");
+        System.out.println("java");
     }
