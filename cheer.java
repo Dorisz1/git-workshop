@@ -6,6 +6,6 @@ public class Cheer {
 
     public static void main(String[] args) {
         Cheer cheer = new Cheer();
-        Cheer.sayTeamName("Group", "7");
+        Cheer.sayTeamName("Group7");
     }
 }
