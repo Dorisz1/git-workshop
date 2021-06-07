@@ -1,5 +1,5 @@
 public class Future {
-    public void future(String horoscope, int age){
-        System.out.println(horoscope + age);
+    public void future(String horoscope) {
+        System.out.println("Your future looks like" + horoscope);
     }
 }
