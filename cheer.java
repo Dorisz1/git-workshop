@@ -1,11 +1,11 @@
 public class Cheer {
 
-    public void sayTeamName(String teamName) {
-        System.out.println( teamName);
+    public void sayTeamName(String name) {
+        System.out.println(name);
     }
 
     public static void main(String[] args) {
         Cheer cheer = new Cheer();
-        Cheer.sayTeamName("Team 7");
+        Cheer.sayTeamName("Group 7");
     }
 }
