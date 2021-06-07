@@ -1,3 +1,3 @@
-public void count(String[] args) {
-        System.out.println("'Counting the countless parameter");
+public void count(String parameter) {
+        System.out.println("Greetings for the" parameter);
     }
