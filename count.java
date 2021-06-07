@@ -1,1 +1,3 @@
-System.out.println(26);
+public void count(String age) {
+        System.out.println(age);
+    }
