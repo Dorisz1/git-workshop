@@ -1,3 +1,3 @@
 public void count(String[] args) {
-        System.out.println("java");
+        System.out.println("'Counting the countless parameter");
     }
