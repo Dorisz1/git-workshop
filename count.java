@@ -1,3 +1,3 @@
-public void count(String[] args) {
-        System.out.println("java");
+public void count(String parameter) {
+        System.out.println("Greetings for the" parameter);
     }
