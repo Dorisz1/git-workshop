@@ -1,7 +1,7 @@
 package com.greenfoxacademy;
 
 public class Greet {
-    public void greet(String parameter) {
+    public void greet() {
         System.out.println("Greetings");
     }
 }
